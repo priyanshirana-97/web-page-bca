@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fully Funded BCA Program</title>
+    <link rel="stylesheet" href="kp.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Fully Funded BCA Program</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#apply">Apply</a></li>
+                    <li><a href="#register">Register</a></li>
+                    <li><a href="#scholarship">Scholarship</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h2>Welcome to the Fully Funded BCA Program</h2>
+            <p>Empowering the next generation of tech leaders with world-class education and opportunities.</p>
+            <img src="bca.png" alt="BCA Program">
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About the Program</h2>
+            <p>The BCA program is a collaborative effort by Shree Badrika Ashram, Navgurukul, and Eternal University to provide quality education to deserving students.</p>
+            <div class="partners">
+                <div class="partner">
+                    <h3>Shree Badrika Ashram</h3>
+                    <img src="shree.png" alt="Shree Badrika Ashram">
+                    <p>Shree Badrika Ashram is dedicated to spiritual growth and community service, supporting various educational initiatives.</p>
+                </div>
+                <div class="partner">
+                    <h3>Navgurukul</h3>
+                    <img src="navgurukul.png" alt="Navgurukul">
+                    <p>Navgurukul offers an immersive learning experience in software development and ensures employment for underprivileged students.</p>
+                </div>
+                <div class="partner">
+                    <h3>Eternal University</h3>
+                    <img src="eternal university.png" alt="Eternal University">
+                    <p>Eternal University provides a holistic education environment, fostering academic and personal growth.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="apply">
+        <div class="container">
+            <h2>Apply Now</h2>
+            <p>Join our program and take the first step towards a successful career in technology.</p>
+            <button>Apply</button>
+        </div>
+    </section>
+
+    <section id="register">
+        <div class="container">
+            <h2>Register</h2>
+            <p>Already applied? Register now to access your student portal and stay updated.</p>
+            <button>Register</button>
+        </div>
+    </section>
+
+    <section id="scholarship">
+        <div class="container">
+            <h2>Scholarship</h2>
+            <p>Our program offers full scholarships to eligible students, covering all tuition fees and providing additional support.</p>
+            <img src="scholarship.png" alt="Scholarship">
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>For more information, please reach out to us.</p>
+            <address>
+                <p>Email: info@bca-program.org</p>
+                <p>Phone: +1 234 567 890</p>
+            </address>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Fully Funded BCA Program. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
